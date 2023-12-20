@@ -114,3 +114,6 @@ private static int valueOfDigitSeq(StringBuilder source) {...}
  */
 private static int valueOfDigit(StringBuilder source) {...}
 ```
+
+## Credits
+https://web.cse.ohio-state.edu/software/2231/web-sw2/assignments/homeworks/expression-evaluator.html
